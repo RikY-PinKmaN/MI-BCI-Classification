@@ -1,0 +1,12 @@
+main_iter,subject_id,real_accuracy_final_test,synthetic_only_test_acc,best_synth_gan_run,best_synth_batch_idx,best_mixed_test_acc,best_mix_ratio,best_synth_val_score,log,notes
+1,1,1.0,0.5,1.0,1.0,0.7777777777777779,25.0,0.5,,
+1,2,0.625,0.625,3.0,8.0,0.625,200.0,0.55,,
+1,3,0.9411764705882352,0.8235294117647058,1.0,20.0,0.9411764705882352,100.0,0.7,,
+1,4,0.7777777777777779,0.7777777777777779,3.0,7.0,0.8888888888888888,25.0,0.55,,
+1,5,0.7777777777777779,0.6666666666666665,2.0,14.0,0.6666666666666665,25.0,0.65,,
+1,6,,,,,,,,ERROR Step 1a: too many values to unpack (expected 5); ERROR Step 1b: too many values to unpack (expected 5),Preproc err: too many values to unpack (expected 5)WGANPreproc err: too many values to unpack (expected 5);
+1,6,,,,,,,,ERROR Step 1a: too many values to unpack (expected 5); ERROR Step 1b: too many values to unpack (expected 5),Preproc err: too many values to unpack (expected 5)WGANPreproc err: too many values to unpack (expected 5);
+1,7,0.7692307692307694,0.5384615384615384,3.0,4.0,0.7692307692307694,25.0,0.65,,
+1,8,1.0,0.75,2.0,6.0,1.0,25.0,0.85,,
+1,9,,,,,,,,ERROR Step 1a: too many values to unpack (expected 5); ERROR Step 1b: too many values to unpack (expected 5),Preproc err: too many values to unpack (expected 5)WGANPreproc err: too many values to unpack (expected 5);
+1,9,,,,,,,,ERROR Step 1a: too many values to unpack (expected 5); ERROR Step 1b: too many values to unpack (expected 5),Preproc err: too many values to unpack (expected 5)WGANPreproc err: too many values to unpack (expected 5);

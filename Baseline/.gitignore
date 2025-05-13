@@ -1,0 +1,13 @@
+# Ignore dataset files
+baseline/data.mat
+
+# Poetry virtual environment
+.venv/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Logs and system files
+*.log
+.DS_Store

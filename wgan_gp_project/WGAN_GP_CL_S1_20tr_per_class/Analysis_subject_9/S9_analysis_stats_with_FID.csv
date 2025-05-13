@@ -1,0 +1,133 @@
+Analysis,Subject,Channel,Class,Metric,Value
+FID,9,C3 (Right Hand),1,FID Score,83.03669
+FID,9,C3 (Right Hand),2,FID Score,72.76603
+FID,9,C4 (Left Hand),1,FID Score,81.11314
+FID,9,C4 (Left Hand),2,FID Score,80.27847
+Grand Average ERP,9,C3 (Right Hand),1,Correlation,0.59352
+Grand Average ERP,9,C3 (Right Hand),1,Freq Domain Wasserstein Dist,0.37349
+Grand Average ERP,9,C3 (Right Hand),1,RMSE,0.07880
+Grand Average ERP,9,C3 (Right Hand),2,Correlation,0.38530
+Grand Average ERP,9,C3 (Right Hand),2,Freq Domain Wasserstein Dist,0.42304
+Grand Average ERP,9,C3 (Right Hand),2,RMSE,0.07397
+Grand Average ERP,9,C4 (Left Hand),1,Correlation,0.61542
+Grand Average ERP,9,C4 (Left Hand),1,Freq Domain Wasserstein Dist,0.46730
+Grand Average ERP,9,C4 (Left Hand),1,RMSE,0.08784
+Grand Average ERP,9,C4 (Left Hand),2,Correlation,0.56569
+Grand Average ERP,9,C4 (Left Hand),2,Freq Domain Wasserstein Dist,0.39005
+Grand Average ERP,9,C4 (Left Hand),2,RMSE,0.06526
+PSD,9,C3 (Right Hand),1,PSD Correlation,0.99153
+PSD,9,C3 (Right Hand),1,PSD RMSE,0.00090
+PSD,9,C3 (Right Hand),2,PSD Correlation,0.97960
+PSD,9,C3 (Right Hand),2,PSD RMSE,0.00167
+PSD,9,C4 (Left Hand),1,PSD Correlation,0.99251
+PSD,9,C4 (Left Hand),1,PSD RMSE,0.00053
+PSD,9,C4 (Left Hand),2,PSD Correlation,0.99210
+PSD,9,C4 (Left Hand),2,PSD RMSE,0.00210
+PSD Band Distribution,9,C3 (Right Hand),1,Alpha KS p-value,0.10982
+PSD Band Distribution,9,C3 (Right Hand),1,Alpha Wasserstein Dist,0.00185
+PSD Band Distribution,9,C3 (Right Hand),1,Beta KS p-value,0.00748
+PSD Band Distribution,9,C3 (Right Hand),1,Beta Wasserstein Dist,0.00014
+PSD Band Distribution,9,C3 (Right Hand),1,Delta KS p-value,0.88961
+PSD Band Distribution,9,C3 (Right Hand),1,Delta Wasserstein Dist,0.00000
+PSD Band Distribution,9,C3 (Right Hand),1,Gamma KS p-value,0.27735
+PSD Band Distribution,9,C3 (Right Hand),1,Gamma Wasserstein Dist,0.00001
+PSD Band Distribution,9,C3 (Right Hand),1,Theta KS p-value,0.20256
+PSD Band Distribution,9,C3 (Right Hand),1,Theta Wasserstein Dist,0.00021
+PSD Band Distribution,9,C3 (Right Hand),2,Alpha KS p-value,0.00004
+PSD Band Distribution,9,C3 (Right Hand),2,Alpha Wasserstein Dist,0.00361
+PSD Band Distribution,9,C3 (Right Hand),2,Beta KS p-value,0.00293
+PSD Band Distribution,9,C3 (Right Hand),2,Beta Wasserstein Dist,0.00024
+PSD Band Distribution,9,C3 (Right Hand),2,Delta KS p-value,0.03437
+PSD Band Distribution,9,C3 (Right Hand),2,Delta Wasserstein Dist,0.00000
+PSD Band Distribution,9,C3 (Right Hand),2,Gamma KS p-value,0.19789
+PSD Band Distribution,9,C3 (Right Hand),2,Gamma Wasserstein Dist,0.00002
+PSD Band Distribution,9,C3 (Right Hand),2,Theta KS p-value,0.61971
+PSD Band Distribution,9,C3 (Right Hand),2,Theta Wasserstein Dist,0.00003
+PSD Band Distribution,9,C4 (Left Hand),1,Alpha KS p-value,0.07945
+PSD Band Distribution,9,C4 (Left Hand),1,Alpha Wasserstein Dist,0.00250
+PSD Band Distribution,9,C4 (Left Hand),1,Beta KS p-value,0.00439
+PSD Band Distribution,9,C4 (Left Hand),1,Beta Wasserstein Dist,0.00021
+PSD Band Distribution,9,C4 (Left Hand),1,Delta KS p-value,0.55566
+PSD Band Distribution,9,C4 (Left Hand),1,Delta Wasserstein Dist,0.00000
+PSD Band Distribution,9,C4 (Left Hand),1,Gamma KS p-value,0.00163
+PSD Band Distribution,9,C4 (Left Hand),1,Gamma Wasserstein Dist,0.00001
+PSD Band Distribution,9,C4 (Left Hand),1,Theta KS p-value,0.00031
+PSD Band Distribution,9,C4 (Left Hand),1,Theta Wasserstein Dist,0.00044
+PSD Band Distribution,9,C4 (Left Hand),2,Alpha KS p-value,0.00824
+PSD Band Distribution,9,C4 (Left Hand),2,Alpha Wasserstein Dist,0.00510
+PSD Band Distribution,9,C4 (Left Hand),2,Beta KS p-value,0.00009
+PSD Band Distribution,9,C4 (Left Hand),2,Beta Wasserstein Dist,0.00031
+PSD Band Distribution,9,C4 (Left Hand),2,Delta KS p-value,0.00335
+PSD Band Distribution,9,C4 (Left Hand),2,Delta Wasserstein Dist,0.00000
+PSD Band Distribution,9,C4 (Left Hand),2,Gamma KS p-value,0.00017
+PSD Band Distribution,9,C4 (Left Hand),2,Gamma Wasserstein Dist,0.00003
+PSD Band Distribution,9,C4 (Left Hand),2,Theta KS p-value,0.01116
+PSD Band Distribution,9,C4 (Left Hand),2,Theta Wasserstein Dist,0.00019
+PSD Band Power,9,C3 (Right Hand),1,Alpha Power Diff (Real-Synth),-0.00185
+PSD Band Power,9,C3 (Right Hand),1,Alpha Power Real,0.00907
+PSD Band Power,9,C3 (Right Hand),1,Alpha Power Synth,0.01091
+PSD Band Power,9,C3 (Right Hand),1,Beta Power Diff (Real-Synth),-0.00014
+PSD Band Power,9,C3 (Right Hand),1,Beta Power Real,0.00067
+PSD Band Power,9,C3 (Right Hand),1,Beta Power Synth,0.00081
+PSD Band Power,9,C3 (Right Hand),1,Delta Power Diff (Real-Synth),0.00000
+PSD Band Power,9,C3 (Right Hand),1,Delta Power Real,0.00000
+PSD Band Power,9,C3 (Right Hand),1,Delta Power Synth,0.00000
+PSD Band Power,9,C3 (Right Hand),1,Gamma Power Diff (Real-Synth),0.00000
+PSD Band Power,9,C3 (Right Hand),1,Gamma Power Real,0.00004
+PSD Band Power,9,C3 (Right Hand),1,Gamma Power Synth,0.00004
+PSD Band Power,9,C3 (Right Hand),1,Theta Power Diff (Real-Synth),0.00020
+PSD Band Power,9,C3 (Right Hand),1,Theta Power Real,0.00070
+PSD Band Power,9,C3 (Right Hand),1,Theta Power Synth,0.00050
+PSD Band Power,9,C3 (Right Hand),2,Alpha Power Diff (Real-Synth),-0.00361
+PSD Band Power,9,C3 (Right Hand),2,Alpha Power Real,0.00869
+PSD Band Power,9,C3 (Right Hand),2,Alpha Power Synth,0.01230
+PSD Band Power,9,C3 (Right Hand),2,Beta Power Diff (Real-Synth),-0.00024
+PSD Band Power,9,C3 (Right Hand),2,Beta Power Real,0.00069
+PSD Band Power,9,C3 (Right Hand),2,Beta Power Synth,0.00092
+PSD Band Power,9,C3 (Right Hand),2,Delta Power Diff (Real-Synth),-0.00000
+PSD Band Power,9,C3 (Right Hand),2,Delta Power Real,0.00000
+PSD Band Power,9,C3 (Right Hand),2,Delta Power Synth,0.00000
+PSD Band Power,9,C3 (Right Hand),2,Gamma Power Diff (Real-Synth),0.00001
+PSD Band Power,9,C3 (Right Hand),2,Gamma Power Real,0.00006
+PSD Band Power,9,C3 (Right Hand),2,Gamma Power Synth,0.00005
+PSD Band Power,9,C3 (Right Hand),2,Theta Power Diff (Real-Synth),0.00000
+PSD Band Power,9,C3 (Right Hand),2,Theta Power Real,0.00037
+PSD Band Power,9,C3 (Right Hand),2,Theta Power Synth,0.00037
+PSD Band Power,9,C4 (Left Hand),1,Alpha Power Diff (Real-Synth),-0.00017
+PSD Band Power,9,C4 (Left Hand),1,Alpha Power Real,0.01205
+PSD Band Power,9,C4 (Left Hand),1,Alpha Power Synth,0.01222
+PSD Band Power,9,C4 (Left Hand),1,Beta Power Diff (Real-Synth),-0.00019
+PSD Band Power,9,C4 (Left Hand),1,Beta Power Real,0.00081
+PSD Band Power,9,C4 (Left Hand),1,Beta Power Synth,0.00100
+PSD Band Power,9,C4 (Left Hand),1,Delta Power Diff (Real-Synth),0.00000
+PSD Band Power,9,C4 (Left Hand),1,Delta Power Real,0.00000
+PSD Band Power,9,C4 (Left Hand),1,Delta Power Synth,0.00000
+PSD Band Power,9,C4 (Left Hand),1,Gamma Power Diff (Real-Synth),0.00001
+PSD Band Power,9,C4 (Left Hand),1,Gamma Power Real,0.00004
+PSD Band Power,9,C4 (Left Hand),1,Gamma Power Synth,0.00003
+PSD Band Power,9,C4 (Left Hand),1,Theta Power Diff (Real-Synth),0.00044
+PSD Band Power,9,C4 (Left Hand),1,Theta Power Real,0.00090
+PSD Band Power,9,C4 (Left Hand),1,Theta Power Synth,0.00045
+PSD Band Power,9,C4 (Left Hand),2,Alpha Power Diff (Real-Synth),-0.00510
+PSD Band Power,9,C4 (Left Hand),2,Alpha Power Real,0.01546
+PSD Band Power,9,C4 (Left Hand),2,Alpha Power Synth,0.02055
+PSD Band Power,9,C4 (Left Hand),2,Beta Power Diff (Real-Synth),-0.00031
+PSD Band Power,9,C4 (Left Hand),2,Beta Power Real,0.00089
+PSD Band Power,9,C4 (Left Hand),2,Beta Power Synth,0.00120
+PSD Band Power,9,C4 (Left Hand),2,Delta Power Diff (Real-Synth),-0.00000
+PSD Band Power,9,C4 (Left Hand),2,Delta Power Real,0.00000
+PSD Band Power,9,C4 (Left Hand),2,Delta Power Synth,0.00000
+PSD Band Power,9,C4 (Left Hand),2,Gamma Power Diff (Real-Synth),0.00003
+PSD Band Power,9,C4 (Left Hand),2,Gamma Power Real,0.00008
+PSD Band Power,9,C4 (Left Hand),2,Gamma Power Synth,0.00006
+PSD Band Power,9,C4 (Left Hand),2,Theta Power Diff (Real-Synth),0.00019
+PSD Band Power,9,C4 (Left Hand),2,Theta Power Real,0.00052
+PSD Band Power,9,C4 (Left Hand),2,Theta Power Synth,0.00033
+Time-Frequency,9,C3 (Right Hand),1,Correlation (TF dB),0.99366
+Time-Frequency,9,C3 (Right Hand),1,RMSE (TF dB),1.30756
+Time-Frequency,9,C3 (Right Hand),2,Correlation (TF dB),0.98656
+Time-Frequency,9,C3 (Right Hand),2,RMSE (TF dB),1.97047
+Time-Frequency,9,C4 (Left Hand),1,Correlation (TF dB),0.99339
+Time-Frequency,9,C4 (Left Hand),1,RMSE (TF dB),1.49553
+Time-Frequency,9,C4 (Left Hand),2,Correlation (TF dB),0.99190
+Time-Frequency,9,C4 (Left Hand),2,RMSE (TF dB),1.48430

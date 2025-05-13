@@ -1,0 +1,129 @@
+Analysis,Subject,Channel,Class,Metric,Value
+Grand Average ERP,4,C3 (Right Hand),1,Correlation,0.5308478209118236
+Grand Average ERP,4,C3 (Right Hand),1,RMSE,0.06698564440011978
+Grand Average ERP,4,C3 (Right Hand),1,Freq Domain Wasserstein Dist,0.47575078966841106
+Time-Frequency,4,C3 (Right Hand),1,Correlation (TF),0.9838747107257935
+Time-Frequency,4,C3 (Right Hand),1,RMSE (TF dB),1.7325384616851807
+PSD,4,C3 (Right Hand),1,PSD Correlation,0.9728745649352898
+PSD,4,C3 (Right Hand),1,PSD RMSE,0.00034876319114118814
+PSD Band Power,4,C3 (Right Hand),1,Delta Power Diff (Real-Synth),3.1768134789444957e-09
+PSD Band Power,4,C3 (Right Hand),1,Delta Power Real,1.19116547736553e-08
+PSD Band Power,4,C3 (Right Hand),1,Delta Power Synth,8.734841294710805e-09
+PSD Band Distribution,4,C3 (Right Hand),1,Delta KS p-value,0.14052849812418028
+PSD Band Distribution,4,C3 (Right Hand),1,Delta Wasserstein Dist,3.220829706916538e-09
+PSD Band Power,4,C3 (Right Hand),1,Theta Power Diff (Real-Synth),0.0001406437804689631
+PSD Band Power,4,C3 (Right Hand),1,Theta Power Real,0.00033710041316226125
+PSD Band Power,4,C3 (Right Hand),1,Theta Power Synth,0.00019645663269329816
+PSD Band Distribution,4,C3 (Right Hand),1,Theta KS p-value,0.0015825852604322461
+PSD Band Distribution,4,C3 (Right Hand),1,Theta Wasserstein Dist,0.00014064388955426058
+PSD Band Power,4,C3 (Right Hand),1,Alpha Power Diff (Real-Synth),0.000438174931332469
+PSD Band Power,4,C3 (Right Hand),1,Alpha Power Real,0.003840302349999547
+PSD Band Power,4,C3 (Right Hand),1,Alpha Power Synth,0.003402127418667078
+PSD Band Distribution,4,C3 (Right Hand),1,Alpha KS p-value,0.2001935678769716
+PSD Band Distribution,4,C3 (Right Hand),1,Alpha Wasserstein Dist,0.0004474788744051936
+PSD Band Power,4,C3 (Right Hand),1,Beta Power Diff (Real-Synth),0.00014890392776578665
+PSD Band Power,4,C3 (Right Hand),1,Beta Power Real,0.002040727296844125
+PSD Band Power,4,C3 (Right Hand),1,Beta Power Synth,0.0018918233690783381
+PSD Band Distribution,4,C3 (Right Hand),1,Beta KS p-value,0.28060664744076896
+PSD Band Distribution,4,C3 (Right Hand),1,Beta Wasserstein Dist,0.00015080944460082785
+PSD Band Power,4,C3 (Right Hand),1,Gamma Power Diff (Real-Synth),-7.616203220095485e-05
+PSD Band Power,4,C3 (Right Hand),1,Gamma Power Real,0.00014271943655330688
+PSD Band Power,4,C3 (Right Hand),1,Gamma Power Synth,0.00021888146875426173
+PSD Band Distribution,4,C3 (Right Hand),1,Gamma KS p-value,0.000370521488351407
+PSD Band Distribution,4,C3 (Right Hand),1,Gamma Wasserstein Dist,7.616201825089879e-05
+Grand Average ERP,4,C3 (Right Hand),2,Correlation,0.3272217595870172
+Grand Average ERP,4,C3 (Right Hand),2,RMSE,0.07250797003507614
+Grand Average ERP,4,C3 (Right Hand),2,Freq Domain Wasserstein Dist,0.48213618490565574
+Time-Frequency,4,C3 (Right Hand),2,Correlation (TF),0.9924759787860884
+Time-Frequency,4,C3 (Right Hand),2,RMSE (TF dB),1.3547908067703247
+PSD,4,C3 (Right Hand),2,PSD Correlation,0.9769617260087238
+PSD,4,C3 (Right Hand),2,PSD RMSE,0.0003272276953794062
+PSD Band Power,4,C3 (Right Hand),2,Delta Power Diff (Real-Synth),3.508279888819743e-09
+PSD Band Power,4,C3 (Right Hand),2,Delta Power Real,1.3682967647810074e-08
+PSD Band Power,4,C3 (Right Hand),2,Delta Power Synth,1.017468775899033e-08
+PSD Band Distribution,4,C3 (Right Hand),2,Delta KS p-value,0.2094239172180445
+PSD Band Distribution,4,C3 (Right Hand),2,Delta Wasserstein Dist,3.7240661677533647e-09
+PSD Band Power,4,C3 (Right Hand),2,Theta Power Diff (Real-Synth),0.00018197573081124574
+PSD Band Power,4,C3 (Right Hand),2,Theta Power Real,0.0003643329255282879
+PSD Band Power,4,C3 (Right Hand),2,Theta Power Synth,0.00018235719471704215
+PSD Band Distribution,4,C3 (Right Hand),2,Theta KS p-value,0.0008924488790957537
+PSD Band Distribution,4,C3 (Right Hand),2,Theta Wasserstein Dist,0.00018197573385097485
+PSD Band Power,4,C3 (Right Hand),2,Alpha Power Diff (Real-Synth),0.00018921471200883389
+PSD Band Power,4,C3 (Right Hand),2,Alpha Power Real,0.0033056256361305714
+PSD Band Power,4,C3 (Right Hand),2,Alpha Power Synth,0.0031164109241217375
+PSD Band Distribution,4,C3 (Right Hand),2,Alpha KS p-value,0.775803187884528
+PSD Band Distribution,4,C3 (Right Hand),2,Alpha Wasserstein Dist,0.00026107463061805574
+PSD Band Power,4,C3 (Right Hand),2,Beta Power Diff (Real-Synth),0.0003014141693711281
+PSD Band Power,4,C3 (Right Hand),2,Beta Power Real,0.0021382339764386415
+PSD Band Power,4,C3 (Right Hand),2,Beta Power Synth,0.0018368198070675135
+PSD Band Distribution,4,C3 (Right Hand),2,Beta KS p-value,0.0005681853944061931
+PSD Band Distribution,4,C3 (Right Hand),2,Beta Wasserstein Dist,0.000321292788793605
+PSD Band Power,4,C3 (Right Hand),2,Gamma Power Diff (Real-Synth),3.0949944630265236e-05
+PSD Band Power,4,C3 (Right Hand),2,Gamma Power Real,0.00015365125727839768
+PSD Band Power,4,C3 (Right Hand),2,Gamma Power Synth,0.00012270131264813244
+PSD Band Distribution,4,C3 (Right Hand),2,Gamma KS p-value,0.016792259853718117
+PSD Band Distribution,4,C3 (Right Hand),2,Gamma Wasserstein Dist,3.105693600612876e-05
+Grand Average ERP,4,C4 (Left Hand),1,Correlation,0.38623370034103066
+Grand Average ERP,4,C4 (Left Hand),1,RMSE,0.0768059492111206
+Grand Average ERP,4,C4 (Left Hand),1,Freq Domain Wasserstein Dist,0.5438650054363534
+Time-Frequency,4,C4 (Left Hand),1,Correlation (TF),0.9876795836017781
+Time-Frequency,4,C4 (Left Hand),1,RMSE (TF dB),1.5434924364089966
+PSD,4,C4 (Left Hand),1,PSD Correlation,0.9465879604534648
+PSD,4,C4 (Left Hand),1,PSD RMSE,0.0006598147447220981
+PSD Band Power,4,C4 (Left Hand),1,Delta Power Diff (Real-Synth),1.950985151211171e-09
+PSD Band Power,4,C4 (Left Hand),1,Delta Power Real,1.4097660816503321e-08
+PSD Band Power,4,C4 (Left Hand),1,Delta Power Synth,1.214667566529215e-08
+PSD Band Distribution,4,C4 (Left Hand),1,Delta KS p-value,0.07358580138983538
+PSD Band Distribution,4,C4 (Left Hand),1,Delta Wasserstein Dist,2.2526564247078076e-09
+PSD Band Power,4,C4 (Left Hand),1,Theta Power Diff (Real-Synth),0.00014471114263869822
+PSD Band Power,4,C4 (Left Hand),1,Theta Power Real,0.00040377292316406965
+PSD Band Power,4,C4 (Left Hand),1,Theta Power Synth,0.00025906178052537143
+PSD Band Distribution,4,C4 (Left Hand),1,Theta KS p-value,0.029713562362178904
+PSD Band Distribution,4,C4 (Left Hand),1,Theta Wasserstein Dist,0.00014471482913590425
+PSD Band Power,4,C4 (Left Hand),1,Alpha Power Diff (Real-Synth),0.0006326474249362946
+PSD Band Power,4,C4 (Left Hand),1,Alpha Power Real,0.005286873783916235
+PSD Band Power,4,C4 (Left Hand),1,Alpha Power Synth,0.00465422635897994
+PSD Band Distribution,4,C4 (Left Hand),1,Alpha KS p-value,0.10941976007400478
+PSD Band Distribution,4,C4 (Left Hand),1,Alpha Wasserstein Dist,0.0007185354416820858
+PSD Band Power,4,C4 (Left Hand),1,Beta Power Diff (Real-Synth),0.00020111165940761566
+PSD Band Power,4,C4 (Left Hand),1,Beta Power Real,0.0028009929228574038
+PSD Band Power,4,C4 (Left Hand),1,Beta Power Synth,0.002599881263449788
+PSD Band Distribution,4,C4 (Left Hand),1,Beta KS p-value,0.3081243986457581
+PSD Band Distribution,4,C4 (Left Hand),1,Beta Wasserstein Dist,0.00025296152031804495
+PSD Band Power,4,C4 (Left Hand),1,Gamma Power Diff (Real-Synth),-4.879491461906582e-05
+PSD Band Power,4,C4 (Left Hand),1,Gamma Power Real,0.00014535650552716106
+PSD Band Power,4,C4 (Left Hand),1,Gamma Power Synth,0.00019415142014622688
+PSD Band Distribution,4,C4 (Left Hand),1,Gamma KS p-value,0.008388604009860906
+PSD Band Distribution,4,C4 (Left Hand),1,Gamma Wasserstein Dist,4.879493099499992e-05
+Grand Average ERP,4,C4 (Left Hand),2,Correlation,0.5220679437535095
+Grand Average ERP,4,C4 (Left Hand),2,RMSE,0.08894586563110352
+Grand Average ERP,4,C4 (Left Hand),2,Freq Domain Wasserstein Dist,0.5958576730191707
+Time-Frequency,4,C4 (Left Hand),2,Correlation (TF),0.9918421829564301
+Time-Frequency,4,C4 (Left Hand),2,RMSE (TF dB),1.293974757194519
+PSD,4,C4 (Left Hand),2,PSD Correlation,0.9590872553385975
+PSD,4,C4 (Left Hand),2,PSD RMSE,0.0009062018361873925
+PSD Band Power,4,C4 (Left Hand),2,Delta Power Diff (Real-Synth),-2.9304487725312356e-09
+PSD Band Power,4,C4 (Left Hand),2,Delta Power Real,1.646016833944941e-08
+PSD Band Power,4,C4 (Left Hand),2,Delta Power Synth,1.9390617111980646e-08
+PSD Band Distribution,4,C4 (Left Hand),2,Delta KS p-value,0.715725653086784
+PSD Band Distribution,4,C4 (Left Hand),2,Delta Wasserstein Dist,3.0277910425848207e-09
+PSD Band Power,4,C4 (Left Hand),2,Theta Power Diff (Real-Synth),0.00014635641127824783
+PSD Band Power,4,C4 (Left Hand),2,Theta Power Real,0.00045686878729611635
+PSD Band Power,4,C4 (Left Hand),2,Theta Power Synth,0.0003105123760178685
+PSD Band Distribution,4,C4 (Left Hand),2,Theta KS p-value,0.23534281607495336
+PSD Band Distribution,4,C4 (Left Hand),2,Theta Wasserstein Dist,0.00014641565656072294
+PSD Band Power,4,C4 (Left Hand),2,Alpha Power Diff (Real-Synth),-0.0009419512934982777
+PSD Band Power,4,C4 (Left Hand),2,Alpha Power Real,0.005313582252711058
+PSD Band Power,4,C4 (Left Hand),2,Alpha Power Synth,0.006255533546209335
+PSD Band Distribution,4,C4 (Left Hand),2,Alpha KS p-value,0.009100883534220136
+PSD Band Distribution,4,C4 (Left Hand),2,Alpha Wasserstein Dist,0.0010189878889473717
+PSD Band Power,4,C4 (Left Hand),2,Beta Power Diff (Real-Synth),-0.00045639905147254467
+PSD Band Power,4,C4 (Left Hand),2,Beta Power Real,0.0027764691039919853
+PSD Band Power,4,C4 (Left Hand),2,Beta Power Synth,0.00323286815546453
+PSD Band Distribution,4,C4 (Left Hand),2,Beta KS p-value,0.04067971834249738
+PSD Band Distribution,4,C4 (Left Hand),2,Beta Wasserstein Dist,0.00045687613456742344
+PSD Band Power,4,C4 (Left Hand),2,Gamma Power Diff (Real-Synth),2.1869404008612037e-05
+PSD Band Power,4,C4 (Left Hand),2,Gamma Power Real,0.00014984814333729446
+PSD Band Power,4,C4 (Left Hand),2,Gamma Power Synth,0.00012797873932868242
+PSD Band Distribution,4,C4 (Left Hand),2,Gamma KS p-value,0.0708943059417052
+PSD Band Distribution,4,C4 (Left Hand),2,Gamma Wasserstein Dist,2.1942837218197236e-05
